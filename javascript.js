@@ -120,7 +120,7 @@ var UsBoard = {
 }
 
 /* 搜索页页面 */
-var search = {
+var Search = {
     init: function(){
         this.page = 0
         this.count = 10
